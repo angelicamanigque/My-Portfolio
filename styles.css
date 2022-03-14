@@ -12,10 +12,14 @@
     font-weight: bold;
     font-size: 25px;
     font-variant: small-caps;
+    text-align: center;
 }
 
 .body{
-    float: center;
+    text-align: center;
 }
+
+
+
 
 
