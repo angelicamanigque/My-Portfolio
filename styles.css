@@ -2,6 +2,9 @@
     padding: 10px;
     margin: 55px;
     float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .heading{
@@ -16,11 +19,7 @@
     text-align: center;
 }
 
-.div{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 
 
