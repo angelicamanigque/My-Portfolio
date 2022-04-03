@@ -3,6 +3,7 @@
     padding: 30px;
     margin: 55px;
     float: left;
+    color: white;
     background-color: darkblue;
 }
 
@@ -31,11 +32,6 @@ header{
 
 img{
     border-radius: 25px;
-}
-
-html{
-    color: white;
-    background-color: black;
 }
 
 
