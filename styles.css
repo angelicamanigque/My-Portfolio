@@ -5,15 +5,19 @@
     background-color: lightblue;
 }
 
-p{
-    font-style: italic;
-    font-weight: bold;
+.card-text{
+    text-align: left;
+    font-family: 'Georgia';
+    font-size: 25px;
+}
+
+/*p{
     font-size: 25px;
     font-variant: small-caps;
     text-align: center;
-}
+}*/
 
-.body{
+body{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -21,7 +25,7 @@ p{
 
 header{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Georgia'
 }
 
 
