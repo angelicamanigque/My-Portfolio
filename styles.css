@@ -1,4 +1,5 @@
 .card{
+    border-radius: 25px;
     padding: 30px;
     margin: 55px;
     float: left;
@@ -8,7 +9,7 @@
 .card-text{
     text-align: left;
     font-family: 'Georgia';
-    font-size: 25px;
+    font-size: 15px;
 }
 
 /*p{
