@@ -2,13 +2,10 @@
     padding: 30px;
     margin: 55px;
     float: left;
+    background-color: lightblue;
 }
 
-.heading{
-    font-family: 'Courier New', Courier, monospace
-}
-
-.paragraph{
+p{
     font-style: italic;
     font-weight: bold;
     font-size: 25px;
@@ -24,6 +21,7 @@
 
 header{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace
 }
 
 
