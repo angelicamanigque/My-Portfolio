@@ -5,7 +5,6 @@
     margin-right: 55px;
     margin-top: 15px;
     float: left;
-    color:#f2f2f2;
     background-color: #ddd;
 }
 
@@ -54,6 +53,6 @@ html{
 
 /* Change background on mouse-over */
 .navbar a:hover {
-  background: #f2f2f2;
+  background: #ddd;
   color: black;
 }
