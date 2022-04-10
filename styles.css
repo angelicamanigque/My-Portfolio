@@ -11,17 +11,11 @@
     font-size: 15px;
 }
 
-/*p{
-    font-size: 25px;
-    font-variant: small-caps;
-    text-align: center;
-}*/
-
 body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 header{
