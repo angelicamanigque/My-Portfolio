@@ -57,3 +57,8 @@ html{
   background: #ddd;
   color: black;
 }
+
+p {
+  margin-left: 30px;
+  margin-right: 30px;
+}
